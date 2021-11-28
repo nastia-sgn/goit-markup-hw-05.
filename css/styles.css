@@ -666,6 +666,10 @@ img {
   letter-spacing: 0.03em;
 }
 
+/* .div-photo {
+  overflow: hidden;
+} */
+
 .section-photo {
   display: flex;
   flex-wrap: wrap;
@@ -719,6 +723,7 @@ img {
 
 .div-text {
   padding: 20px 24px;
+  /* overflow: hidden; */
 }
 
 .project-list {
