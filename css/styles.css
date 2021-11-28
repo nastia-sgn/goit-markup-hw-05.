@@ -652,6 +652,7 @@ img {
 }
 
 .icon-close-btn {
+  position: absolute;
   width: 18px;
   height: 18px;
   fill: #000000;
